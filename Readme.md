@@ -7,6 +7,9 @@
 * [_Layout.cshtml](./CS/MvcApp_TreeView/Views/Shared/_Layout.cshtml)
 <!-- default file list end -->
 # TreeView - How to restore the checked state when submitting a form
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3561)**
+<!-- run online end -->
 
 
 <p>TreeView does not have the built-in capability to restore the checked state when submitting a form. This example illustrates how to do this manually.</p><p>To accomplish this task, execute the following steps:</p><p>- Place the hidden input on a form;<br />
