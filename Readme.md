@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # TreeView - How to restore the checked state when submitting a form
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3561)**
+**[[Run Online]](https://codecentral.devexpress.com/e3561/)**
 <!-- run online end -->
 
 
